@@ -1,5 +1,0 @@
-[project]
-name = "archive-governance"
-version = "0.1.0"
-requires-python = ">=3.11"
-description = "展品档案元数据治理骨架"
